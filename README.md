@@ -55,6 +55,9 @@ The application recommends **low-emission daily routines**, **indoor air quality
 
 ## 🚀 Quickstart Guide
 
+### Repository
+- GitHub: [https://github.com/shaikjafar559/smogshield-ai](https://github.com/shaikjafar559/smogshield-ai)
+
 ### Prerequisites
 - Python 3.10+
 - Modern Web Browser (Chrome, Edge, Firefox, Safari)
